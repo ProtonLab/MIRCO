@@ -1,0 +1,18 @@
+{
+  "name": "MIRCO",
+  "version": "1.0.0",
+  "main": "src/main.ts",
+  "repository": "https://github.com/ProtonLab/MIRCO.git",
+  "author": "MagicMarvMan <24806960+MagicMarvMan@users.noreply.github.com>",
+  "license": "AGPL-3.0-or-later",
+  "private": false,
+  "devDependencies": {
+    "electron": "^2.0.3",
+    "electron-builder": "^20.15.1"
+  },
+  "dependencies": {
+    "@types/electron": "^1.6.10",
+    "node-irc": "^0.0.4",
+    "typescript": "^2.9.2"
+  }
+}
