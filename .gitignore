@@ -59,3 +59,12 @@ typings/
 
 # next.js build output
 .next
+
+# Confidential information
+*.provisionprofile
+dist
+ex
+src/build
+
+
+.DS_Store
